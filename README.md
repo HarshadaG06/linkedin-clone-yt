@@ -1,6 +1,6 @@
 # LinkedIn Clone with React and Firebase
 
-![LinkedIn Clone](https://img.icons8.com/color/48/linkedin.png)
+![LinkedIn Clone](https://github.com/HarshadaG06/linkedin-clone-yt/blob/main/public/LinkedinClone.gif)
 
 Welcome to my LinkedIn Clone project built using React, Redux, and Firebase!
 
