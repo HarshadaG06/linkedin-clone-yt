@@ -3,12 +3,11 @@
 ![LinkedIn Clone](https://github.com/HarshadaG06/linkedin-clone-yt/blob/main/public/LinkedinClone.gif)
 
 Welcome to my LinkedIn Clone project built using React, Redux, and Firebase!
-
 This application replicates some of the core features of LinkedIn like creating a profile(login, logout functionality) and creating and uploading posts. With real-time updates powered by Firebase Firestore and secure authentication with Firebase Authentication, this clone showcases how to harness the power of modern web development tools and technologies to create a simple and efficient web application.
 
 ## Features
 
-✅ **User Authentication**:  Seamlessly integrate Firebase Authentication to provide secure user login and registration functionalities.
+✅ **User Authentication**: Seamlessly integrate Firebase Authentication to provide secure user login and registration functionalities.
 
 ✅ **Realtime Database**: Utilize Firebase Firestore to ensure efficient and dynamic data storage and retrieval, creating a smooth and responsive user experience.
 
